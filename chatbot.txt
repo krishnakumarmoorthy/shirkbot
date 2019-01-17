@@ -1,0 +1,81 @@
+There are two ways to look things up in Wikipedia: by searching or by browsing.
+
+    If you know the name of an article for which you are looking, simply type it into Wikipedia's search box.
+    If you would like to look around the encyclopedia to see what is on it, use Wikipedia's Contents pages. Lists and indices are examples of contents for a published work, and Wikipedia has many of each, including a complete alphabetical index and indices by category.
+    Links to all of Wikipedia's main contents pages are presented below, and they in turn link to the more specific pages.
+
+Curated article collections
+Overview articles
+
+Overview articles summarize in prose a broad topic like biology, and also have illustrations and links to subtopics like cell biology, biographies like Carl Linnaeus, and other related articles like Human Genome Project.
+
+    Portal:Contents/Overviews lists overview articles from covered areas of knowledge in a single page.
+
+Outline pages
+
+Outline pages have trees of topics in an outline format, which in turn are linked to further outlines and articles providing more detail. Outlines show how important subtopics relate to each other based on how they are arranged in the tree, and they are useful as a more condensed, non-prose alternative to overview articles.
+
+    Portal:Contents/Outlines is a comprehensive list of "Outline of __" pages, organized by subject. It is itself an outline, that links (almost) exclusively to other outlines.
+    Outline of academic disciplines covers subjects studied in college or university, and provides links to prose overview articles and their corresponding outlines.
+    Outline of knowledge is the top-level outline, its subject being the broadest one of all. It is the ancestor of all other outlines, and they branch out from it, in successive levels.
+
+Third-party classification systems
+
+Various third-party classification systems have been mapped to Wikipedia articles, which can be accessed from these pages:
+
+    List of Dewey Decimal classes
+    Library of Congress Classification
+    Wikipedia:Outline of Roget's Thesaurus
+
+Vital articles
+Main page: Wikipedia:Vital articles
+
+Vital articles are lists of subjects for which Wikipedia should have corresponding high-quality articles. They serve as centralized watchlists to track the status of Wikipedia's most important articles.
+
+    Vital articles level 1 – 10 most important articles
+    Vital articles level 2 – 100 most important articles
+    Vital articles level 3 – 1,000 most important articles
+    Vital articles level 4 – 10,000 most important articles
+    Vital articles level 5 – 50,000 most important articles
+
+Reference collections
+
+Wikipedia has several types of pages which provide content in a non-prose form, for reference purposes.
+List pages
+
+List pages enumerate items of a particular type, such as the List of sovereign states or List of South Africans. Wikipedia has "lists of lists" when there are too many items to fit on a single page, when the items can sorted in different ways, or as a way of navigating lists on a topic (for example Lists of countries and territories or Lists of people). There are several ways to find lists:
+
+    Portal:Contents/Lists – A limited single-page collection of lists and lists of lists
+    List of lists of lists – A broad single-page collection of lists of lists
+    Category:Lists – Browse lists comprehensively via the multi-page Wikipedia category system
+
+Timelines
+
+Timelines list events chronologically, sometimes including links to articles with more detail. There are several ways to find timelines:
+
+    List of timelines has a long single-page collection
+    Category:Timelines has a comprehensive multi-page collection via the Wikipedia category system
+
+Of particular interest may be:
+
+    List of centuries
+    List of decades
+    List of historical anniversaries – e.g. events on January 1 of any year
+    2019 – major events this year
+    Portal:Current events – featured current events and related project activities
+    Deaths in 2019 – lists notable people who died this year
+    Category:Graphical timelines – graphical timelines in the category and subcategories, arranged alphabetically
+
+Glossaries
+
+Glossaries are lists of terms with definitions. Wikipedia includes hundreds of alphabetical glossaries; they can be found two ways:
+
+    Portal:Contents/Glossaries – A single-page list of glossaries
+    Category:Wikipedia glossaries – Browse glossaries comprehensively via the Wikipedia category system
+
+Bibliographies
+
+Bibliographies list sources on a given topic, for verification or further reading outside Wikipedia:
+
+    Wikipedia:List of bibliographies is a list of bibliographies
+    Category:Wikipedia bibliographies has a complete multi-page listing of bibliographies on Wikipedia
