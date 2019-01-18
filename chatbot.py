@@ -60,8 +60,7 @@ while(flag == True):
 			if(greeting(user_response)!=None):
 				print("ShirkBot: "+greeting(user_response))
 			else:
-				print("ShirkBot:",)
-				print(response(user_response))
+				print("ShirkBot:"+response(user_response))
 				sent_tokens.remove(user_response)
 	else:
 		flag=False
