@@ -1,6 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
-#from sklearn.metrices.pairwise import cosine_similarity
-import sklearn
+from sklearn.metrics.pairwise import cosine_similarity
 import nltk
 import numpy as np
 import random
@@ -37,7 +36,7 @@ def response(user_response):
 	sent_tokens.append(user_response)
 	TfidfVec = TfidfVectorizer(tokenizer=LemNormalize, stop_words='english')
 	tfidf=TfidfVec.fit_transform(sent_tokens)
-	vals=sklearn.metrices.pairwise.cosine_similarity(tfidf[-1],tfidf)
+	vals=cosine_similarity(tfidf[-1],tfidf)
 	idx=vals.argsort()[0][-2]
 	flat=vals.flatten()
 	flat.sort()
