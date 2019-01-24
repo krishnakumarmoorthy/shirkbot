@@ -13,11 +13,11 @@ NLTK
 some of these packs will be available with python itself.
 ### Installing
 After installing the prerequisites, use the following command to run the script.
-for python 2:
-  python chatbot.py
-for python 3:
-  python3 chatkbot.py
-You can use anaconda too to run the bot.
+<br>for python 2:
+  <br>python chatbot.py
+<br>for python 3:
+  <br>python3 chatkbot.py
+<br>You can use anaconda too to run the bot.
 
 ## Built With
 
