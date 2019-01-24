@@ -1,4 +1,4 @@
-# Project Title
+# Shirkbot
 The shirkbot is a simple chatbot script made using Natural Language Processing Programmed and scripted with python. It chats with user about the chatbots. You can train the bot with any other corpus. This is just a basic implementation.
 
 ## Getting Started
