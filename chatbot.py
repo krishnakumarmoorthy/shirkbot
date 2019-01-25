@@ -7,8 +7,8 @@ import string
 f=open('chatbot.txt','r')
 raw=f.read()
 raw=raw.lower()#convert to lowercase
-#nltk.download('punkt')#first time use only)
-#nltk.download('wordnet')#first time use only
+nltk.download('punkt')#first time use only)
+nltk.download('wordnet')#first time use only
 sent_tokens=nltk.sent_tokenize(raw)#convert to list of sentences
 word_tokens=nltk.word_tokenize(raw)
 lemmer=nltk.stem.WordNetLemmatizer()
